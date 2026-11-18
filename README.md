@@ -18,6 +18,7 @@ This project analyzes inventory data to understand stock levels, sales, and orde
 
 ## Dashboard
 An interactive Excel dashboard was created to summarize inventory performance.
+![Inventory Dashboard](Inventory-Dashboard.png)
 
 ## File
 Inventory_Management_Analysis.xlsx
